@@ -8,7 +8,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 # 문구 작성 방법
 
-사이트의 모든 텍스트 문구는 `doc/TEXT_GUIDE.md`를 참고하여 작성한다.
+사이트의 모든 텍스트 문구는 `docs/TEXT_GUIDE.md`를 참고하여 작성한다.
 
 # 개발 이력 기록 (필수)
 
